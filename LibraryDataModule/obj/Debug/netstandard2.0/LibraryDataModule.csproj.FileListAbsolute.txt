@@ -1,0 +1,6 @@
+E:\КореньКуликовГизей307\LibraryDataModule\bin\Debug\netstandard2.0\LibraryDataModule.deps.json
+E:\КореньКуликовГизей307\LibraryDataModule\bin\Debug\netstandard2.0\LibraryDataModule.dll
+E:\КореньКуликовГизей307\LibraryDataModule\obj\Debug\netstandard2.0\LibraryDataModule.csprojAssemblyReference.cache
+E:\КореньКуликовГизей307\LibraryDataModule\obj\Debug\netstandard2.0\LibraryDataModule.csproj.CoreCompileInputs.cache
+E:\КореньКуликовГизей307\LibraryDataModule\obj\Debug\netstandard2.0\LibraryDataModule.AssemblyInfoInputs.cache
+E:\КореньКуликовГизей307\LibraryDataModule\obj\Debug\netstandard2.0\LibraryDataModule.AssemblyInfo.cs
